@@ -1,16 +1,4 @@
-# food_donation
-
+# HopeSource - Food Charity Application
 Food Donation App
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+HopeSource – Food Charity Mobile Application is designed and developed to connect different communities with various food resources to mitigate the scarcity and food insecurity among individuals. The mobile application provides various features to access free and paid food channels, abundant food donations and community food drives by keeping aware other organizations or need community to collect the food from different food distribution centres. With real-time feature updation technology, it will be easy to access the food from any nearby private or well-known distribution channel so that people may relieve their appetite and the food scarcity can be reduced to some extent.
